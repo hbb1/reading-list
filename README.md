@@ -34,9 +34,13 @@
 
 - **PolyNet**: Zhang, Xingcheng, et al. "Polynet: A pursuit of structural diversity in very deep networks." arXiv preprint arXiv:1611.05725 (2016). [Slides](http://image-net.org/challenges/talks/2016/polynet_talk.pdf) ⭐️⭐️⭐️⭐️ `divsersity`
 
+- **Xception**: Chollet, François. "Xception: Deep Learning with Depthwise Separable Convolutions." arXiv preprint arXiv:1610.02357 (2016). ⭐️⭐️⭐️ `channel correlation` `decoupled`
+
+- **SENet**: Hu, Jie, Li Shen, and Gang Sun. "Squeeze-and-excitation networks."In CVPR (2018). ⭐️⭐️⭐️⭐️⭐️ `decouple` `channel excited `
+
 - **DenseNet**: Huang, Gao, et al. "Densely connected convolutional networks." arXiv preprint arXiv:1608.06993 (2016). ⭐️⭐️⭐️⭐️⭐️ `features reuse`  ##CVPR 2017 Best Paper
 
-- 
+- **Rethinking ImageNet Pre-training**： He, Kaiming, Ross Girshick, and Piotr Dollár. "Rethinking ImageNet Pre-training." arXiv preprint arXiv:1811.08883 (2018). ⭐️⭐️⭐️
 
 
 
@@ -57,23 +61,29 @@
 ## Person ReID
 
 * **AlignedReID**  Xuan Zhang, Hao Luo et al. AlignedReID: Surpassing Human-Level Performance in Person Re-Identification. 2015. ⭐️⭐️⭐️⭐️ `stripe-based` `local distance`
-* Mahdi M. Kalayeh et al. Human Semantic Parsing for Person Re-identification. CVPR ( 2018 ). ⭐️⭐️⭐️ `segamentic` `transfer`  
+
+* Mahdi M. Kalayeh et al. Human Semantic Parsing for Person Re-identification. CVPR ( 2018 ). ⭐️ `segamentic` `transfer`  
+
 * Huo et al. Interaction-and-Aggregation Network for Person Re-identification. CVPR ( 2019 ).  ⭐️⭐️⭐️⭐️ `adaptively localize parts by modeling spatial feature `  `self-attention` 
+
 * Luo et al. Bag of Tricks and A Strong Baseline for Deep Person Re-identification. CVPR ( 2019 ). ⭐️⭐️⭐️⭐️ `tricks` `bnneck` `inter-intra-class`
 
 * Zheng et al. Joint Discriminative and Generative Learning for Person Re-identification. CVPR( 2019 ).
+
 * Wang et al. Spatial-Temporal Person Re-identification. CVPR( 2019 ).
+
+  
 
 ## NIPS
 
-- Max Jaderberg Karen Simonyan Andrew Zisserman Koray Kavukcuoglu Spatial Transformer Networks. NIPS (2015) ⭐️⭐️⭐️⭐️ `affine transform` `learnable layer`
+- Max Jaderberg Karen Simonyan Andrew Zisserman Koray Kavukcuoglu. Spatial Transformer Networks. NIPS (2015) ⭐️⭐️⭐️⭐️ `affine transform` `learnable layer`
 
 
 [pdf]: MaxJaderbergKarenSimonyanAndrewZissermanKorayKavukcuoglu
 
 
 
-## Distance Metric Learning
+
 
 
 
