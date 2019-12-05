@@ -44,7 +44,14 @@
 
 
 
-## Attention 
+## Point cloud 
+
+- **PointNet** Charles R Qi, Hao Su et al. "PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation". arXiv: 1612.00593v2  (CVPR 2017). ⭐️⭐️⭐️
+- **PointNet++**: C. R. Qi et al. "Deep Hierarchical Feature Learning on Point Sets in a Metric Space". (NeurIPS 2017) [[pdf\]](http://xxx.itp.ac.cn/pdf/1706.02413.pdf) [[Github\]](https://github.com/charlesq34/pointnet2) ⭐️ ⭐️ ⭐️ ⭐️ 
+- **PointCNN**:  Y. Li et al. "Convolution On X-Transformed Points" (NeurIPS 2018). [[pdf\]](https://arxiv.org/pdf/1801.07791.pdf) [[Github\]](https://github.com/yangyanli/PointCNN) ⭐️ ⭐️ ⭐️
+- **RS-CNN**： Y. Liu et al. "Relation-Shape Convolutional Neural Network for Point Cloud Analysis" ⭐️⭐️⭐️⭐️
+
+
 
 
 
